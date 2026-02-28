@@ -21,7 +21,7 @@ Il sistema ha dimostrato di essere rapido e preciso per applicazioni real-time. 
 * `yolo_detect.py`: Script Python principale per eseguire l'inferenza su immagini, video o flussi video in tempo reale (es. webcam o PiCamera).
 * `best.pt`: Pesi del modello YOLOv11s addestrato sul nostro custom dataset.
 * `Object_Detection_Pedestrian_and_Vehicle_Orientation.pdf`: Relazione dettagliata del progetto.
-* 
+  
 ## Installazione e Utilizzo
 
 1. Clona questa repository:
