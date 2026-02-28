@@ -1,4 +1,4 @@
-# Pedestrian and Vehicle Orientation Detection on PiCar-X 🚗🚶‍♂️
+# Pedestrian and Vehicle Orientation Detection on PiCar-X 
 
 **Corso:** Fondamenti di Visione Artificiale e Biometria 2024/2025  
 **Autori:** Andrea Salurso e Francesca Avallone  
